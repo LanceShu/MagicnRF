@@ -1,2 +1,2 @@
 # MagicnRF
-A Bluetooth(BLE) debugging tool
+A miniprogram tool for Bluetooth(BLE) debugging.
